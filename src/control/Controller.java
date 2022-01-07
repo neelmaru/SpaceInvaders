@@ -32,7 +32,6 @@ public class Controller implements KeyListener, ActionListener, GameObserver {
      * The frame to hold the panel with the current view of the game.
      */
     private View view;
-
     /**
      * Create a view object, and have the view display the initial welcome message.
      */
